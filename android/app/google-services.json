@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339426936524",
+    "project_id": "beatrizmartinez-9b",
+    "storage_bucket": "beatrizmartinez-9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339426936524:android:ad23e97685f91739c72469",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_g2VLTTcjjdbG4EsMN3iReinXUqJVPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
